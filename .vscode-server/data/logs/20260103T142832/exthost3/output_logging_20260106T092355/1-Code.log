@@ -1,0 +1,503 @@
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+our fullName is siham mohamud 
+54
+
+[Done] exited with code=0 in 0.136 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+our fullName is siham mohamud 
+54
+
+[Done] exited with code=0 in 0.13 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+our fullName is siham mohamud 
+54
+
+[Done] exited with code=0 in 0.36 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/tempCodeRunnerFile.js"
+
+[Done] exited with code=0 in 0.12 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+our fullName is siham mohamud 
+54
+
+[Done] exited with code=0 in 0.118 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+/home/sihammohamud/fst/javascript/strings/string.js:28
+consol.log(region);
+^
+
+ReferenceError: consol is not defined
+    at Object.<anonymous> (/home/sihammohamud/fst/javascript/strings/string.js:28:1)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Module._load (node:internal/modules/cjs/loader:1013:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v18.19.1
+
+[Done] exited with code=1 in 0.145 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+/home/sihammohamud/fst/javascript/strings/string.js:28
+consol.log(country);
+^
+
+ReferenceError: consol is not defined
+    at Object.<anonymous> (/home/sihammohamud/fst/javascript/strings/string.js:28:1)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Module._load (node:internal/modules/cjs/loader:1013:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v18.19.1
+
+[Done] exited with code=1 in 0.115 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+/home/sihammohamud/fst/javascript/strings/string.js:28
+consol.log(_country);
+^
+
+ReferenceError: consol is not defined
+    at Object.<anonymous> (/home/sihammohamud/fst/javascript/strings/string.js:28:1)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Module._load (node:internal/modules/cjs/loader:1013:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v18.19.1
+
+[Done] exited with code=1 in 0.484 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+/home/sihammohamud/fst/javascript/strings/string.js:8
+consol.log(_country);
+^
+
+ReferenceError: consol is not defined
+    at Object.<anonymous> (/home/sihammohamud/fst/javascript/strings/string.js:8:1)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Module._load (node:internal/modules/cjs/loader:1013:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v18.19.1
+
+[Done] exited with code=1 in 0.118 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+i like burco
+
+[Done] exited with code=0 in 0.442 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+i like burco
+
+[Done] exited with code=0 in 0.427 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+/home/sihammohamud/fst/javascript/strings/string.js:2
+console.log(town)
+            ^
+
+ReferenceError: Cannot access 'town' before initialization
+    at Object.<anonymous> (/home/sihammohamud/fst/javascript/strings/string.js:2:13)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Module._load (node:internal/modules/cjs/loader:1013:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v18.19.1
+
+[Done] exited with code=1 in 0.502 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+i like burco
+
+[Done] exited with code=0 in 0.127 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+e burco
+
+[Done] exited with code=0 in 0.496 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+ burco
+
+[Done] exited with code=0 in 0.122 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+ike burco
+
+[Done] exited with code=0 in 0.121 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+i like
+
+[Done] exited with code=0 in 0.128 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+urco
+
+[Done] exited with code=0 in 0.117 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+burco
+
+[Done] exited with code=0 in 0.128 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+burcoburcoburcoburcoburcoburcoburcoburcoburcoburcoburcoburcoburcoburcoburcoburcoburcoburcoburcoburco
+
+[Done] exited with code=0 in 0.13 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+i like burcoi like burcoi like burcoi like burcoi like burcoi like burcoi like burcoi like burcoi like burcoi like burcoi like burcoi like burcoi like burcoi like burcoi like burcoi like burcoi like burcoi like burcoi like burcoi like burco
+
+[Done] exited with code=0 in 0.11 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+i like burco 
+i like burco 
+i like burco 
+i like burco 
+i like burco 
+i like burco 
+i like burco 
+i like burco 
+i like burco 
+i like burco 
+i like burco 
+i like burco 
+i like burco 
+i like burco 
+i like burco 
+i like burco 
+i like burco 
+i like burco 
+i like burco 
+i like burco 
+
+
+[Done] exited with code=0 in 0.122 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+ok 	 	 	 	 	 i like burco 
+ok 	 	 	 	 	 i like burco 
+ok 	 	 	 	 	 i like burco 
+ok 	 	 	 	 	 i like burco 
+ok 	 	 	 	 	 i like burco 
+ok 	 	 	 	 	 i like burco 
+ok 	 	 	 	 	 i like burco 
+ok 	 	 	 	 	 i like burco 
+ok 	 	 	 	 	 i like burco 
+ok 	 	 	 	 	 i like burco 
+ok 	 	 	 	 	 i like burco 
+ok 	 	 	 	 	 i like burco 
+ok 	 	 	 	 	 i like burco 
+ok 	 	 	 	 	 i like burco 
+ok 	 	 	 	 	 i like burco 
+ok 	 	 	 	 	 i like burco 
+ok 	 	 	 	 	 i like burco 
+ok 	 	 	 	 	 i like burco 
+ok 	 	 	 	 	 i like burco 
+ok 	 	 	 	 	 i like burco 
+
+
+[Done] exited with code=0 in 0.113 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+ok 	 	 	 	 	i like burco 
+ok 	 	 	 	 	i like burco 
+ok 	 	 	 	 	i like burco 
+ok 	 	 	 	 	i like burco 
+ok 	 	 	 	 	i like burco 
+ok 	 	 	 	 	i like burco 
+ok 	 	 	 	 	i like burco 
+ok 	 	 	 	 	i like burco 
+ok 	 	 	 	 	i like burco 
+ok 	 	 	 	 	i like burco 
+ok 	 	 	 	 	i like burco 
+ok 	 	 	 	 	i like burco 
+ok 	 	 	 	 	i like burco 
+ok 	 	 	 	 	i like burco 
+ok 	 	 	 	 	i like burco 
+ok 	 	 	 	 	i like burco 
+ok 	 	 	 	 	i like burco 
+ok 	 	 	 	 	i like burco 
+ok 	 	 	 	 	i like burco 
+ok 	 	 	 	 	i like burco 
+
+
+[Done] exited with code=0 in 0.143 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+ve hoo
+
+[Done] exited with code=0 in 0.456 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+ hooyo and my dad
+
+[Done] exited with code=0 in 0.13 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+e hooyo and my dad
+
+[Done] exited with code=0 in 0.116 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+i love 
+
+[Done] exited with code=0 in 0.108 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love 
+
+[Done] exited with code=0 in 0.119 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love 
+
+[Done] exited with code=0 in 0.113 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love 
+
+[Done] exited with code=0 in 0.117 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love 
+
+[Done] exited with code=0 in 0.109 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love i love 
+
+[Done] exited with code=0 in 0.124 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+i love hooyo and my dad 
+ i love hooyo and my dad 
+ i love hooyo and my dad 
+ i love hooyo and my dad 
+ i love hooyo and my dad 
+ i love hooyo and my dad 
+ i love hooyo and my dad 
+ i love hooyo and my dad 
+ i love hooyo and my dad 
+ i love hooyo and my dad 
+ i love hooyo and my dad 
+ i love hooyo and my dad 
+ i love hooyo and my dad 
+ i love hooyo and my dad 
+ i love hooyo and my dad 
+ i love hooyo and my dad 
+ i love hooyo and my dad 
+ i love hooyo and my dad 
+ i love hooyo and my dad 
+ i love hooyo and my dad 
+ i love hooyo and my dad 
+ i love hooyo and my dad 
+ i love hooyo and my dad 
+ i love hooyo and my dad 
+ i love hooyo and my dad 
+ i love hooyo and my dad 
+ i love hooyo and my dad 
+ i love hooyo and my dad 
+ i love hooyo and my dad 
+ i love hooyo and my dad 
+ 
+
+[Done] exited with code=0 in 0.11 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ 
+
+[Done] exited with code=0 in 0.116 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ 
+
+[Done] exited with code=0 in 0.122 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ i love hooyo	 	 	 and my dad 
+ 
+
+[Done] exited with code=0 in 0.109 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ 
+
+[Done] exited with code=0 in 0.115 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ i love hooyo	 	 	 and 	 	 	 my dad 
+ 
+
+[Done] exited with code=0 in 0.099 seconds
+

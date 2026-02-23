@@ -1,0 +1,23 @@
+2026-01-27 11:59:35.695 [info] 
+
+
+
+
+2026-01-27 11:59:35.705 [info] Extension host agent started.
+2026-01-27 11:59:35.803 [info] [127.0.0.1][aee7fa37][ManagementConnection] New connection established.
+2026-01-27 11:59:36.083 [info] [127.0.0.1][ff54702b][ExtensionHostConnection] New connection established.
+2026-01-27 11:59:36.641 [info] [127.0.0.1][ff54702b][ExtensionHostConnection] <43416> Launched Extension Host Process.
+2026-01-27 11:59:36.896 [info] [127.0.0.1][ff54702b][ExtensionHostConnection] <43416> [reconnection-grace-time] Extension host: read VSCODE_RECONNECTION_GRACE_TIME=10800000ms (10800s)
+
+2026-01-27 11:59:46.666 [error] #1: https://main.vscode-cdn.net/extensions/marketplace.json - error GET getaddrinfo EAI_AGAIN main.vscode-cdn.net
+2026-01-27 11:59:47.764 [error] #2: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+2026-01-27 12:00:00.421 [error] #3: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+2026-01-27 12:56:25.112 [info] [127.0.0.1][ff54702b][ExtensionHostConnection] The client has reconnected.
+2026-01-27 12:56:25.328 [info] [127.0.0.1][aee7fa37][ManagementConnection] The client has reconnected.
+2026-01-27 13:20:56.335 [info] [127.0.0.1][aee7fa37][ManagementConnection] The client has reconnected.
+2026-01-27 13:20:56.451 [info] [127.0.0.1][ff54702b][ExtensionHostConnection] The client has reconnected.
+2026-01-27 13:39:27.172 [info] [127.0.0.1][aee7fa37][ManagementConnection] The client has reconnected.
+2026-01-27 13:39:27.390 [info] [127.0.0.1][ff54702b][ExtensionHostConnection] The client has reconnected.
+2026-01-27 13:48:37.029 [info] [127.0.0.1][ff54702b][ExtensionHostConnection] The client has reconnected.
+2026-01-27 13:48:37.257 [info] [127.0.0.1][aee7fa37][ManagementConnection] The client has reconnected.
+2026-01-28 07:49:14.912 [info] [127.0.0.1][aee7fa37][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...

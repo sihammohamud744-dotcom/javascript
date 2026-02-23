@@ -1,0 +1,285 @@
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+siham mohamud
+
+[Done] exited with code=0 in 0.091 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+[String: 'mohamud']
+
+[Done] exited with code=0 in 0.074 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+ my fullName is ${firstName} ${lastName} 
+
+[Done] exited with code=0 in 0.076 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+my fullName is siham mohamud 
+
+[Done] exited with code=0 in 0.077 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+my fullName is siham mohamud 
+
+[Done] exited with code=0 in 0.085 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+our fullName is siham mohamud 
+
+[Done] exited with code=0 in 0.075 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+our fullName is siham mohamud 
+/home/sihammohamud/fst/javascript/strings/string.js:15
+age = age.replace(20, 30)
+          ^
+
+TypeError: age.replace is not a function
+    at Object.<anonymous> (/home/sihammohamud/fst/javascript/strings/string.js:15:11)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Module._load (node:internal/modules/cjs/loader:1013:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v18.19.1
+
+[Done] exited with code=1 in 0.079 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+our fullName is siham mohamud 
+/home/sihammohamud/fst/javascript/strings/string.js:15
+age = age.replace(20, 30);
+          ^
+
+TypeError: age.replace is not a function
+    at Object.<anonymous> (/home/sihammohamud/fst/javascript/strings/string.js:15:11)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Module._load (node:internal/modules/cjs/loader:1013:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v18.19.1
+
+[Done] exited with code=1 in 0.082 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+/home/sihammohamud/fst/javascript/strings/string.js:15
+love language = $loveLanguage = "quality time";
+     ^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1274:20)
+    at Module._compile (node:internal/modules/cjs/loader:1320:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Module._load (node:internal/modules/cjs/loader:1013:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v18.19.1
+
+[Done] exited with code=1 in 0.081 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+/home/sihammohamud/fst/javascript/strings/string.js:15
+love language = $loveLanguage = "quality time";
+     ^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1274:20)
+    at Module._compile (node:internal/modules/cjs/loader:1320:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Module._load (node:internal/modules/cjs/loader:1013:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v18.19.1
+
+[Done] exited with code=1 in 0.078 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+/home/sihammohamud/fst/javascript/strings/string.js:15
+love language = $loveLanguage.replace("physical touch", "quality time");
+     ^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1274:20)
+    at Module._compile (node:internal/modules/cjs/loader:1320:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Module._load (node:internal/modules/cjs/loader:1013:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v18.19.1
+
+[Done] exited with code=1 in 0.085 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+/home/sihammohamud/fst/javascript/strings/string.js:15
+love language = loveLanguage.replace("physical touch", "quality time");
+     ^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1274:20)
+    at Module._compile (node:internal/modules/cjs/loader:1320:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Module._load (node:internal/modules/cjs/loader:1013:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v18.19.1
+
+[Done] exited with code=1 in 0.087 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+phisical touch
+
+[Done] exited with code=0 in 0.071 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+phisical touch
+/home/sihammohamud/fst/javascript/strings/string.js:17
+loveLanguage = loveLanguage("physical touch", "quality time");
+               ^
+
+TypeError: loveLanguage is not a function
+    at Object.<anonymous> (/home/sihammohamud/fst/javascript/strings/string.js:17:16)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Module._load (node:internal/modules/cjs/loader:1013:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v18.19.1
+
+[Done] exited with code=1 in 0.08 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+phisical touch
+phisical touch
+
+[Done] exited with code=0 in 0.082 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+phisical touch
+
+[Done] exited with code=0 in 0.081 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+my love language is phisical touch
+
+[Done] exited with code=0 in 0.086 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+my love language is phisical touch
+
+[Done] exited with code=0 in 0.084 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+my love language is phisical touch
+
+[Done] exited with code=0 in 0.106 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+our fullName is siham mohamud 
+
+[Done] exited with code=0 in 0.086 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+our fullName is siham mohamud 
+our love language is phisical touch
+
+[Done] exited with code=0 in 0.076 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+our fullName is siham mohamud 
+our love language is phisical touch and quality time
+
+[Done] exited with code=0 in 0.08 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+our fullName is siham mohamud 
+our love language is phisical touch and quality time
+
+[Done] exited with code=0 in 0.087 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+our fullName is siham mohamud 
+OUR LOVE LANGUAGE IS PHISICAL TOUCH AND QUALITY TIME
+
+[Done] exited with code=0 in 0.072 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+our fullName is siham mohamud 
+O
+
+[Done] exited with code=0 in 0.077 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+our fullName is siham mohamud 
+OUR LOVE LANGUAGE IS PHISICAL TOUCH AND QUALITY TIME
+
+[Done] exited with code=0 in 0.071 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+our fullName is siham mohamud 
+/home/sihammohamud/fst/javascript/strings/string.js:22
+esult = result.length()
+               ^
+
+TypeError: result.length is not a function
+    at Object.<anonymous> (/home/sihammohamud/fst/javascript/strings/string.js:22:16)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Module._load (node:internal/modules/cjs/loader:1013:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v18.19.1
+
+[Done] exited with code=1 in 0.077 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+our fullName is siham mohamud 
+/home/sihammohamud/fst/javascript/strings/string.js:22
+esult = result.length()
+               ^
+
+TypeError: result.length is not a function
+    at Object.<anonymous> (/home/sihammohamud/fst/javascript/strings/string.js:22:16)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Module._load (node:internal/modules/cjs/loader:1013:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v18.19.1
+
+[Done] exited with code=1 in 0.077 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+our fullName is siham mohamud 
+52
+
+[Done] exited with code=0 in 0.078 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/strings/string.js"
+our fullName is siham mohamud 
+54
+
+[Done] exited with code=0 in 0.073 seconds
+

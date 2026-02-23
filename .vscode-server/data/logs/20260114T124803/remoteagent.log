@@ -1,0 +1,19 @@
+2026-01-14 12:48:04.003 [info] 
+
+
+
+
+2026-01-14 12:48:04.003 [info] Extension host agent started.
+2026-01-14 12:48:04.399 [info] [127.0.0.1][241ee863][ManagementConnection] New connection established.
+2026-01-14 12:48:04.773 [info] [127.0.0.1][93ee8d26][ExtensionHostConnection] New connection established.
+2026-01-14 12:48:05.295 [info] [127.0.0.1][93ee8d26][ExtensionHostConnection] <194883> Launched Extension Host Process.
+2026-01-14 12:48:05.621 [info] [127.0.0.1][93ee8d26][ExtensionHostConnection] <194883> [reconnection-grace-time] Extension host: read VSCODE_RECONNECTION_GRACE_TIME=10800000ms (10800s)
+
+2026-01-14 12:52:08.610 [info] [127.0.0.1][93ee8d26][ExtensionHostConnection] The client has reconnected.
+2026-01-14 12:52:08.820 [info] [127.0.0.1][241ee863][ManagementConnection] The client has reconnected.
+2026-01-14 15:17:53.252 [info] [127.0.0.1][241ee863][ManagementConnection] The client has reconnected.
+2026-01-14 15:17:53.402 [info] [127.0.0.1][93ee8d26][ExtensionHostConnection] The client has reconnected.
+2026-01-14 15:17:57.710 [info] [127.0.0.1][93ee8d26][ExtensionHostConnection] The client has reconnected.
+2026-01-15 10:47:24.395 [info] [127.0.0.1][241ee863][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2026-01-15 16:05:30.108 [info] [127.0.0.1][93ee8d26][ExtensionHostConnection] <194883> Extension Host Process exited with code: 0, signal: null.
+2026-01-15 16:05:57.710 [info] [127.0.0.1][241ee863][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.

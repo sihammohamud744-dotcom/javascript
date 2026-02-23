@@ -1,0 +1,9 @@
+
+// forof deals with arrays 
+
+let town = ["muqdisho", "hargeisa", "kismaayo",]
+for (const currentTown of town) {
+    if(currentTown == "hargeisa")
+        console.log(currentTown);
+}
+

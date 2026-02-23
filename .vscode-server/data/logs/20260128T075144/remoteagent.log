@@ -1,0 +1,25 @@
+2026-01-28 07:51:44.890 [info] 
+
+
+
+
+2026-01-28 07:51:44.890 [info] Extension host agent started.
+2026-01-28 07:51:44.947 [info] [127.0.0.1][a4a3d917][ManagementConnection] New connection established.
+2026-01-28 07:51:45.398 [info] [127.0.0.1][cc404dc8][ExtensionHostConnection] New connection established.
+2026-01-28 07:51:45.898 [info] [127.0.0.1][cc404dc8][ExtensionHostConnection] <63063> Launched Extension Host Process.
+2026-01-28 07:51:46.340 [info] [127.0.0.1][cc404dc8][ExtensionHostConnection] <63063> [reconnection-grace-time] Extension host: read VSCODE_RECONNECTION_GRACE_TIME=10800000ms (10800s)
+
+2026-01-28 07:51:55.930 [error] #1: https://main.vscode-cdn.net/extensions/marketplace.json - error GET getaddrinfo EAI_AGAIN main.vscode-cdn.net
+2026-01-28 07:51:56.907 [error] #2: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+2026-01-28 07:52:09.666 [error] #3: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+2026-01-28 08:27:33.805 [info] [127.0.0.1][a4a3d917][ManagementConnection] The client has reconnected.
+2026-01-28 08:27:33.921 [info] [127.0.0.1][cc404dc8][ExtensionHostConnection] The client has reconnected.
+2026-01-28 15:26:32.665 [info] [127.0.0.1][cc404dc8][ExtensionHostConnection] The client has reconnected.
+2026-01-28 15:26:32.770 [info] [127.0.0.1][a4a3d917][ManagementConnection] The client has reconnected.
+2026-01-28 16:37:28.178 [info] [127.0.0.1][a4a3d917][ManagementConnection] The client has reconnected.
+2026-01-28 16:37:28.230 [info] [127.0.0.1][cc404dc8][ExtensionHostConnection] The client has reconnected.
+2026-01-28 16:49:27.963 [info] [127.0.0.1][cc404dc8][ExtensionHostConnection] The client has reconnected.
+2026-01-28 16:49:28.056 [info] [127.0.0.1][a4a3d917][ManagementConnection] The client has reconnected.
+2026-01-28 16:50:38.127 [info] [127.0.0.1][a4a3d917][ManagementConnection] The client has reconnected.
+2026-01-28 16:50:38.182 [info] [127.0.0.1][cc404dc8][ExtensionHostConnection] The client has reconnected.
+2026-01-29 10:29:22.805 [info] [127.0.0.1][a4a3d917][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...

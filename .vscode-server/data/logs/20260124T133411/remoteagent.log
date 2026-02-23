@@ -1,0 +1,24 @@
+2026-01-24 13:34:11.871 [info] 
+
+
+
+
+2026-01-24 13:34:11.883 [info] Extension host agent started.
+2026-01-24 13:34:12.162 [info] [127.0.0.1][ff57f5e6][ManagementConnection] New connection established.
+2026-01-24 13:34:12.422 [info] [127.0.0.1][ca0f641f][ExtensionHostConnection] New connection established.
+2026-01-24 13:34:12.428 [info] [127.0.0.1][ca0f641f][ExtensionHostConnection] <540> Launched Extension Host Process.
+2026-01-24 13:34:12.550 [info] [127.0.0.1][6312c53a][ManagementConnection] New connection established.
+2026-01-24 13:34:12.953 [info] [127.0.0.1][ca0f641f][ExtensionHostConnection] <540> [reconnection-grace-time] Extension host: read VSCODE_RECONNECTION_GRACE_TIME=10800000ms (10800s)
+
+2026-01-24 13:34:13.059 [info] [127.0.0.1][a291a739][ExtensionHostConnection] New connection established.
+2026-01-24 13:34:13.063 [info] [127.0.0.1][a291a739][ExtensionHostConnection] <585> Launched Extension Host Process.
+2026-01-24 13:34:13.465 [info] [127.0.0.1][a291a739][ExtensionHostConnection] <585> [reconnection-grace-time] Extension host: read VSCODE_RECONNECTION_GRACE_TIME=10800000ms (10800s)
+
+2026-01-24 14:12:19.453 [info] [127.0.0.1][6312c53a][ManagementConnection] The client has reconnected.
+2026-01-24 14:12:19.551 [info] [127.0.0.1][ff57f5e6][ManagementConnection] The client has reconnected.
+2026-01-24 14:12:19.649 [info] [127.0.0.1][a291a739][ExtensionHostConnection] The client has reconnected.
+2026-01-24 14:12:19.764 [info] [127.0.0.1][ca0f641f][ExtensionHostConnection] The client has reconnected.
+2026-01-24 14:30:12.740 [info] [127.0.0.1][ca0f641f][ExtensionHostConnection] The client has reconnected.
+2026-01-24 14:30:12.833 [info] [127.0.0.1][6312c53a][ManagementConnection] The client has reconnected.
+2026-01-24 14:30:12.944 [info] [127.0.0.1][ff57f5e6][ManagementConnection] The client has reconnected.
+2026-01-24 14:30:13.030 [info] [127.0.0.1][a291a739][ExtensionHostConnection] The client has reconnected.

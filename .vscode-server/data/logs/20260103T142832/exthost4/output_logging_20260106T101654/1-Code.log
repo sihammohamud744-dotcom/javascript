@@ -1,0 +1,169 @@
+[Running] node "/home/sihammohamud/fst/javascript/arrays/arrays.js"
+/home/sihammohamud/fst/javascript/arrays/arrays.js:1
+let listNames = ["siham"., "ahmed" , "cali" . "faarax"]
+                         ^
+
+SyntaxError: Unexpected token ','
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1274:20)
+    at Module._compile (node:internal/modules/cjs/loader:1320:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Module._load (node:internal/modules/cjs/loader:1013:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v18.19.1
+
+[Done] exited with code=1 in 0.163 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/arrays/arrays.js"
+/home/sihammohamud/fst/javascript/arrays/arrays.js:1
+let listNames = ["siham", "ahmed" , "cali" . "faarax"]
+                                             ^^^^^^^^
+
+SyntaxError: Unexpected string
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1274:20)
+    at Module._compile (node:internal/modules/cjs/loader:1320:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Module._load (node:internal/modules/cjs/loader:1013:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v18.19.1
+
+[Done] exited with code=1 in 0.455 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/arrays/arrays.js"
+/home/sihammohamud/fst/javascript/arrays/arrays.js:1
+let listNames = ["siham" "ahmed"  "cali" "faarax"]
+                         ^^^^^^^
+
+SyntaxError: Unexpected string
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1274:20)
+    at Module._compile (node:internal/modules/cjs/loader:1320:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Module._load (node:internal/modules/cjs/loader:1013:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v18.19.1
+
+[Done] exited with code=1 in 0.134 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/arrays/arrays.js"
+[ 'siham', 'ahmed', 'cali', 'faarax' ]
+
+[Done] exited with code=0 in 0.125 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/arrays/arrays.js"
+[ 'siham', 'ahmed', 'cali', 'faarax' ]
+[ 20, 30, 40, 20 ]
+
+[Done] exited with code=0 in 0.447 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/arrays/arrays.js"
+cali
+40
+
+[Done] exited with code=0 in 0.131 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/arrays/arrays.js"
+undefined
+undefined
+
+[Done] exited with code=0 in 0.124 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/arrays/arrays.js"
+faarax
+20
+
+[Done] exited with code=0 in 0.12 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/arrays/arrays.js"
+[Function: push]
+
+[Done] exited with code=0 in 0.418 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/arrays/arrays.js"
+faarax
+20
+[ 'siham', [ 'mohamud' ], 'cali', 'faarax' ]
+
+[Done] exited with code=0 in 0.123 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/arrays/arrays.js"
+faarax
+20
+[ 'siham', 'mohamud', 'cali', 'faarax' ]
+
+[Done] exited with code=0 in 0.123 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/arrays/arrays.js"
+faarax
+20
+[ 'siham', 'mohamud', 'cali', 'faarax' ]
+[ 'onions', 'watermelon', 'raise', 'tea' ]
+
+[Done] exited with code=0 in 0.12 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/arrays/arrays.js"
+faarax
+20
+[ 'siham', 'mohamud', 'cali', 'faarax' ]
+[ 'onions', 'watermelon', 'raise' ]
+
+[Done] exited with code=0 in 0.541 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/arrays/arrays.js"
+faarax
+20
+[ 'onions', 'watermelon', 'raise' ]
+/home/sihammohamud/fst/javascript/arrays/arrays.js:22
+shoppingList.unshift(painkiller)
+                     ^
+
+ReferenceError: painkiller is not defined
+    at Object.<anonymous> (/home/sihammohamud/fst/javascript/arrays/arrays.js:22:22)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Module._load (node:internal/modules/cjs/loader:1013:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v18.19.1
+
+[Done] exited with code=1 in 0.5 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/arrays/arrays.js"
+faarax
+20
+[ 'onions', 'watermelon', 'raise' ]
+[ 'painkiller', 'onions', 'watermelon', 'raise' ]
+
+[Done] exited with code=0 in 0.476 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/arrays/arrays.js"
+faarax
+20
+[ 'onions', 'watermelon', 'raise' ]
+[ 'painkiller', 'onions', 'watermelon', 'raise' ]
+[ 'onions', 'watermelon', 'raise' ]
+
+[Done] exited with code=0 in 0.116 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/arrays/arrays.js"
+faarax
+20
+[ 'onions', 'watermelon', 'raise' ]
+[ 'painkiller', 'onions', 'watermelon', 'raise' ]
+[ 'onions', 'watermelon', 'raise' ]
+3
+
+[Done] exited with code=0 in 0.405 seconds
+

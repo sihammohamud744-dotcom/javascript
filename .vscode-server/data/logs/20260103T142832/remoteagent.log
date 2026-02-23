@@ -1,0 +1,135 @@
+2026-01-03 14:28:32.674 [info] 
+
+
+
+
+2026-01-03 14:28:32.687 [info] Extension host agent started.
+2026-01-03 14:28:32.752 [info] Started initializing default profile extensions in extensions installation folder. file:///home/sihammohamud/.vscode-server/extensions
+2026-01-03 14:28:32.766 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/sihammohamud/.vscode-server/extensions
+2026-01-03 14:28:33.098 [info] [127.0.0.1][fa86f308][ManagementConnection] New connection established.
+2026-01-03 14:28:33.429 [info] [127.0.0.1][cd6970ff][ExtensionHostConnection] New connection established.
+2026-01-03 14:28:33.435 [info] [127.0.0.1][cd6970ff][ExtensionHostConnection] <16397> Launched Extension Host Process.
+2026-01-03 14:28:33.821 [info] [127.0.0.1][cd6970ff][ExtensionHostConnection] <16397> [reconnection-grace-time] Extension host: read VSCODE_RECONNECTION_GRACE_TIME=10800000ms (10800s)
+
+2026-01-03 14:28:56.400 [info] Getting Manifest... formulahendry.code-runner
+2026-01-03 14:28:57.070 [info] Installing extension: formulahendry.code-runner {"installPreReleaseVersion":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/sihammohamud/.vscode-server/extensions/extensions.json","external":"file:///home/sihammohamud/.vscode-server/extensions/extensions.json","path":"/home/sihammohamud/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"}}
+2026-01-03 14:29:01.648 [info] Extension signature verification result for formulahendry.code-runner: Success. Internal Code: 0. Executed: true. Duration: 2780ms.
+2026-01-03 14:29:01.972 [info] Extracted extension to file:///home/sihammohamud/.vscode-server/extensions/formulahendry.code-runner-0.12.2: formulahendry.code-runner
+2026-01-03 14:29:02.035 [info] Renamed to /home/sihammohamud/.vscode-server/extensions/formulahendry.code-runner-0.12.2
+2026-01-03 14:29:02.059 [info] Extension installed successfully: formulahendry.code-runner file:///home/sihammohamud/.vscode-server/extensions/extensions.json
+2026-01-03 16:51:11.662 [info] [127.0.0.1][fa86f308][ManagementConnection] The client has reconnected.
+2026-01-03 16:51:12.017 [info] [127.0.0.1][cd6970ff][ExtensionHostConnection] The client has reconnected.
+2026-01-03 16:54:41.298 [info] [127.0.0.1][cd6970ff][ExtensionHostConnection] The client has reconnected.
+2026-01-03 16:54:41.786 [info] [127.0.0.1][fa86f308][ManagementConnection] The client has reconnected.
+2026-01-03 20:51:35.590 [info] [127.0.0.1][cd6970ff][ExtensionHostConnection] The client has reconnected.
+2026-01-03 20:57:05.111 [info] [127.0.0.1][fa86f308][ManagementConnection] The client has reconnected.
+2026-01-03 20:57:05.604 [info] [127.0.0.1][cd6970ff][ExtensionHostConnection] The client has reconnected.
+2026-01-03 21:26:38.157 [info] [127.0.0.1][fa86f308][ManagementConnection] The client has reconnected.
+2026-01-03 21:26:42.208 [info] [127.0.0.1][cd6970ff][ExtensionHostConnection] The client has reconnected.
+2026-01-03 22:22:48.620 [info] [127.0.0.1][fa86f308][ManagementConnection] The client has reconnected.
+2026-01-03 22:22:48.790 [info] [127.0.0.1][cd6970ff][ExtensionHostConnection] The client has reconnected.
+2026-01-03 22:39:17.758 [info] [127.0.0.1][fa86f308][ManagementConnection] The client has reconnected.
+2026-01-03 23:23:36.362 [info] [127.0.0.1][cd6970ff][ExtensionHostConnection] The client has reconnected.
+2026-01-03 23:47:36.742 [info] [127.0.0.1][fa86f308][ManagementConnection] The client has reconnected.
+2026-01-03 23:51:24.111 [info] [127.0.0.1][cd6970ff][ExtensionHostConnection] The client has reconnected.
+2026-01-03 23:58:06.622 [info] [127.0.0.1][fa86f308][ManagementConnection] The client has reconnected.
+2026-01-03 23:58:06.875 [info] [127.0.0.1][cd6970ff][ExtensionHostConnection] The client has reconnected.
+2026-01-04 21:50:26.630 [info] [127.0.0.1][fa86f308][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2026-01-05 20:40:55.054 [info] [127.0.0.1][cd6970ff][ExtensionHostConnection] <16397> Extension Host Process exited with code: 0, signal: null.
+2026-01-05 20:41:21.350 [info] [127.0.0.1][fa86f308][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+2026-01-05 20:42:38.081 [info] [127.0.0.1][b124c76b][ManagementConnection] New connection established.
+2026-01-05 20:42:38.535 [info] [127.0.0.1][20932692][ExtensionHostConnection] New connection established.
+2026-01-05 20:42:38.537 [info] [127.0.0.1][20932692][ExtensionHostConnection] <82942> Launched Extension Host Process.
+2026-01-05 20:42:38.867 [info] [127.0.0.1][20932692][ExtensionHostConnection] <82942> [reconnection-grace-time] Extension host: read VSCODE_RECONNECTION_GRACE_TIME=10800000ms (10800s)
+
+2026-01-05 21:55:55.146 [info] [127.0.0.1][20932692][ExtensionHostConnection] The client has reconnected.
+2026-01-05 21:55:56.138 [info] [127.0.0.1][b124c76b][ManagementConnection] The client has reconnected.
+2026-01-05 21:56:04.902 [info] [127.0.0.1][20932692][ExtensionHostConnection] The client has reconnected.
+2026-01-05 21:56:05.258 [info] [127.0.0.1][b124c76b][ManagementConnection] The client has reconnected.
+2026-01-05 22:01:43.459 [info] [127.0.0.1][b124c76b][ManagementConnection] The client has reconnected.
+2026-01-05 22:01:43.587 [info] [127.0.0.1][20932692][ExtensionHostConnection] The client has reconnected.
+2026-01-05 22:10:14.046 [info] [127.0.0.1][20932692][ExtensionHostConnection] The client has reconnected.
+2026-01-05 22:10:14.658 [info] [127.0.0.1][b124c76b][ManagementConnection] The client has reconnected.
+2026-01-06 08:20:15.744 [info] [127.0.0.1][b124c76b][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2026-01-06 09:23:54.339 [info] [127.0.0.1][b124c76b][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2026-01-06 09:23:54.343 [info] [127.0.0.1][9873e819][ManagementConnection] New connection established.
+2026-01-06 09:23:54.861 [info] [127.0.0.1][230f1e03][ExtensionHostConnection] New connection established.
+2026-01-06 09:23:54.865 [info] [127.0.0.1][230f1e03][ExtensionHostConnection] <111652> Launched Extension Host Process.
+2026-01-06 09:23:55.253 [info] [127.0.0.1][230f1e03][ExtensionHostConnection] <111652> [reconnection-grace-time] Extension host: read VSCODE_RECONNECTION_GRACE_TIME=10800000ms (10800s)
+
+2026-01-06 09:29:03.192 [info] [127.0.0.1][b124c76b][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+2026-01-06 09:29:03.414 [info] [127.0.0.1][20932692][ExtensionHostConnection] <82942> Extension Host Process exited with code: 0, signal: null.
+2026-01-06 09:59:40.852 [info] [127.0.0.1][230f1e03][ExtensionHostConnection] The client has reconnected.
+2026-01-06 09:59:40.994 [info] [127.0.0.1][9873e819][ManagementConnection] The client has reconnected.
+2026-01-06 10:16:53.475 [info] [127.0.0.1][c15c436b][ManagementConnection] New connection established.
+2026-01-06 10:16:53.909 [info] [127.0.0.1][cba4f204][ExtensionHostConnection] New connection established.
+2026-01-06 10:16:53.912 [info] [127.0.0.1][cba4f204][ExtensionHostConnection] <118469> Launched Extension Host Process.
+2026-01-06 10:16:54.344 [info] [127.0.0.1][cba4f204][ExtensionHostConnection] <118469> [reconnection-grace-time] Extension host: read VSCODE_RECONNECTION_GRACE_TIME=10800000ms (10800s)
+
+2026-01-06 10:59:00.838 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+2026-01-06 10:59:00.853 [info] [127.0.0.1][9873e819][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2026-01-06 10:59:52.768 [info] [127.0.0.1][9873e819][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2026-01-06 10:59:52.770 [info] [127.0.0.1][c15c436b][ManagementConnection] The client has reconnected.
+2026-01-06 10:59:53.007 [info] [127.0.0.1][cba4f204][ExtensionHostConnection] The client has reconnected.
+2026-01-06 10:59:53.243 [info] [127.0.0.1][9873e819][ManagementConnection] The client has reconnected.
+2026-01-06 10:59:53.455 [info] [127.0.0.1][230f1e03][ExtensionHostConnection] The client has reconnected.
+2026-01-06 11:03:01.133 [info] [127.0.0.1][230f1e03][ExtensionHostConnection] The client has reconnected.
+2026-01-06 11:03:01.260 [info] [127.0.0.1][cba4f204][ExtensionHostConnection] The client has reconnected.
+2026-01-06 11:03:01.388 [info] [127.0.0.1][9873e819][ManagementConnection] The client has reconnected.
+2026-01-06 11:03:01.572 [info] [127.0.0.1][c15c436b][ManagementConnection] The client has reconnected.
+2026-01-06 12:09:43.658 [info] [127.0.0.1][230f1e03][ExtensionHostConnection] The client has reconnected.
+2026-01-06 12:09:43.888 [info] [127.0.0.1][c15c436b][ManagementConnection] The client has reconnected.
+2026-01-06 12:09:44.132 [info] [127.0.0.1][9873e819][ManagementConnection] The client has reconnected.
+2026-01-06 12:09:44.327 [info] [127.0.0.1][cba4f204][ExtensionHostConnection] The client has reconnected.
+2026-01-06 14:01:30.301 [info] [127.0.0.1][cba4f204][ExtensionHostConnection] The client has reconnected.
+2026-01-06 14:01:30.746 [info] [127.0.0.1][9873e819][ManagementConnection] The client has reconnected.
+2026-01-06 14:01:31.285 [info] [127.0.0.1][c15c436b][ManagementConnection] The client has reconnected.
+2026-01-06 14:01:31.606 [info] [127.0.0.1][230f1e03][ExtensionHostConnection] The client has reconnected.
+2026-01-06 21:44:24.620 [info] [127.0.0.1][230f1e03][ExtensionHostConnection] The client has reconnected.
+2026-01-07 10:01:51.308 [info] [127.0.0.1][c15c436b][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2026-01-07 10:01:51.308 [info] [127.0.0.1][9873e819][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2026-01-07 10:06:21.962 [info] [127.0.0.1][cba4f204][ExtensionHostConnection] <118469> Extension Host Process exited with code: 0, signal: null.
+2026-01-10 11:47:30.292 [info] [127.0.0.1][c15c436b][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+2026-01-10 11:47:30.326 [info] [127.0.0.1][9873e819][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+2026-01-10 12:41:28.004 [info] [127.0.0.1][230f1e03][ExtensionHostConnection] <111652> Extension Host Process exited with code: 0, signal: null.
+2026-01-11 12:21:34.403 [info] [127.0.0.1][de483376][ManagementConnection] New connection established.
+2026-01-11 12:21:34.824 [info] [127.0.0.1][27f02017][ExtensionHostConnection] New connection established.
+2026-01-11 12:21:34.828 [info] [127.0.0.1][27f02017][ExtensionHostConnection] <152582> Launched Extension Host Process.
+2026-01-11 12:21:35.158 [info] [127.0.0.1][27f02017][ExtensionHostConnection] <152582> [reconnection-grace-time] Extension host: read VSCODE_RECONNECTION_GRACE_TIME=10800000ms (10800s)
+
+2026-01-11 13:21:26.562 [info] [127.0.0.1][27f02017][ExtensionHostConnection] The client has reconnected.
+2026-01-11 13:21:26.895 [info] [127.0.0.1][de483376][ManagementConnection] The client has reconnected.
+2026-01-11 16:19:26.266 [info] [127.0.0.1][de483376][ManagementConnection] The client has reconnected.
+2026-01-11 16:19:26.680 [info] [127.0.0.1][27f02017][ExtensionHostConnection] The client has reconnected.
+2026-01-11 23:14:35.195 [info] [127.0.0.1][de483376][ManagementConnection] The client has reconnected.
+2026-01-11 23:14:35.702 [info] [127.0.0.1][27f02017][ExtensionHostConnection] The client has reconnected.
+2026-01-12 10:37:38.115 [info] [127.0.0.1][27f02017][ExtensionHostConnection] The client has reconnected.
+2026-01-12 10:37:38.249 [info] [127.0.0.1][de483376][ManagementConnection] The client has reconnected.
+2026-01-12 11:25:22.789 [info] [127.0.0.1][27f02017][ExtensionHostConnection] The client has reconnected.
+2026-01-12 11:25:23.235 [info] [127.0.0.1][de483376][ManagementConnection] The client has reconnected.
+2026-01-12 20:53:52.747 [info] [127.0.0.1][27f02017][ExtensionHostConnection] The client has reconnected.
+2026-01-12 20:53:52.841 [info] [127.0.0.1][de483376][ManagementConnection] The client has reconnected.
+2026-01-14 10:58:12.172 [info] [127.0.0.1][38badbc5][ManagementConnection] New connection established.
+2026-01-14 10:58:12.688 [info] [127.0.0.1][76b540ae][ExtensionHostConnection] New connection established.
+2026-01-14 10:58:12.691 [info] [127.0.0.1][76b540ae][ExtensionHostConnection] <179853> Launched Extension Host Process.
+2026-01-14 10:58:13.031 [info] [127.0.0.1][76b540ae][ExtensionHostConnection] <179853> [reconnection-grace-time] Extension host: read VSCODE_RECONNECTION_GRACE_TIME=10800000ms (10800s)
+
+2026-01-14 11:09:12.160 [info] Getting Manifest... ritwickdey.liveserver
+2026-01-14 11:09:12.542 [info] Installing extension: ritwickdey.liveserver {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/sihammohamud/.vscode-server/extensions/extensions.json","external":"file:///home/sihammohamud/.vscode-server/extensions/extensions.json","path":"/home/sihammohamud/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"}}
+2026-01-14 11:09:16.959 [info] Extension signature verification result for ritwickdey.liveserver: Success. Internal Code: 0. Executed: true. Duration: 1017ms.
+2026-01-14 11:09:20.685 [info] Extracted extension to file:///home/sihammohamud/.vscode-server/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2026-01-14 11:09:22.707 [info] Renamed to /home/sihammohamud/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2026-01-14 11:09:22.717 [info] Extension installed successfully: ritwickdey.liveserver file:///home/sihammohamud/.vscode-server/extensions/extensions.json
+2026-01-14 11:25:45.553 [info] [127.0.0.1][de483376][ManagementConnection] The client has reconnected.
+2026-01-14 11:25:46.775 [info] [127.0.0.1][27f02017][ExtensionHostConnection] The client has reconnected.
+2026-01-14 11:25:46.899 [info] [127.0.0.1][76b540ae][ExtensionHostConnection] The client has reconnected.
+2026-01-14 11:25:47.055 [info] [127.0.0.1][38badbc5][ManagementConnection] The client has reconnected.
+2026-01-14 11:26:45.886 [info] [127.0.0.1][de483376][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2026-01-14 11:26:46.194 [info] [127.0.0.1][27f02017][ExtensionHostConnection] <152582> Extension Host Process exited with code: 0, signal: null.
+2026-01-14 11:55:18.678 [info] [127.0.0.1][38badbc5][ManagementConnection] The client has reconnected.
+2026-01-14 11:55:18.816 [info] [127.0.0.1][76b540ae][ExtensionHostConnection] The client has reconnected.
+2026-01-14 12:36:14.651 [info] [127.0.0.1][76b540ae][ExtensionHostConnection] The client has reconnected.
+2026-01-14 12:36:14.844 [info] [127.0.0.1][38badbc5][ManagementConnection] The client has reconnected.
+2026-01-14 12:46:46.098 [info] [127.0.0.1][38badbc5][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2026-01-14 12:46:46.258 [info] [127.0.0.1][76b540ae][ExtensionHostConnection] <179853> Extension Host Process exited with code: 0, signal: null.

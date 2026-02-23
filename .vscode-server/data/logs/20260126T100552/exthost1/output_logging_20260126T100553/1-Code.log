@@ -1,0 +1,310 @@
+[Running] node "/home/sihammohamud/fst/javascript/objects/object.js"
+siham
+boy
+
+[Done] exited with code=0 in 0.382 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/objects/object.js"
+siham
+girl
+
+[Done] exited with code=0 in 0.112 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/objects/tempCodeRunnerFile.js"
+/home/sihammohamud/fst/javascript/objects/tempCodeRunnerFile.js:1
+console.log(person["name"])
+            ^
+
+ReferenceError: person is not defined
+    at Object.<anonymous> (/home/sihammohamud/fst/javascript/objects/tempCodeRunnerFile.js:1:13)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Module._load (node:internal/modules/cjs/loader:1013:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v18.19.1
+
+[Done] exited with code=1 in 0.108 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/objects/object.js"
+girl
+
+[Done] exited with code=0 in 0.113 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/objects/object.js"
+boy
+
+[Done] exited with code=0 in 0.112 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/objects/tempCodeRunnerFile.js"
+/home/sihammohamud/fst/javascript/objects/tempCodeRunnerFile.js:1
+console.log(people["type"])
+            ^
+
+ReferenceError: people is not defined
+    at Object.<anonymous> (/home/sihammohamud/fst/javascript/objects/tempCodeRunnerFile.js:1:13)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Module._load (node:internal/modules/cjs/loader:1013:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v18.19.1
+
+[Done] exited with code=1 in 0.429 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/objects/object.js"
+boy
+
+[Done] exited with code=0 in 0.115 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/objects/tempCodeRunnerFile.js"
+/home/sihammohamud/fst/javascript/objects/tempCodeRunnerFile.js:1
+console.log(people["type"])
+            ^
+
+ReferenceError: people is not defined
+    at Object.<anonymous> (/home/sihammohamud/fst/javascript/objects/tempCodeRunnerFile.js:1:13)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Module._load (node:internal/modules/cjs/loader:1013:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v18.19.1
+
+[Done] exited with code=1 in 0.113 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/objects/object.js"
+boy
+
+[Done] exited with code=0 in 0.115 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/objects/tempCodeRunnerFile.js"
+/home/sihammohamud/fst/javascript/objects/tempCodeRunnerFile.js:1
+console.log(people.type);
+            ^
+
+ReferenceError: people is not defined
+    at Object.<anonymous> (/home/sihammohamud/fst/javascript/objects/tempCodeRunnerFile.js:1:13)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Module._load (node:internal/modules/cjs/loader:1013:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v18.19.1
+
+[Done] exited with code=1 in 0.11 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/objects/tempCodeRunnerFile.js"
+/home/sihammohamud/fst/javascript/objects/tempCodeRunnerFile.js:1
+console.log(people.type);
+            ^
+
+ReferenceError: people is not defined
+    at Object.<anonymous> (/home/sihammohamud/fst/javascript/objects/tempCodeRunnerFile.js:1:13)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Module._load (node:internal/modules/cjs/loader:1013:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v18.19.1
+
+[Done] exited with code=1 in 0.105 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/objects/object.js"
+girl
+
+[Done] exited with code=0 in 0.116 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/objects/object.js"
+girl
+
+[Done] exited with code=0 in 0.109 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/objects/object.js"
+boy
+
+[Done] exited with code=0 in 0.127 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/objects/object.js"
+boy
+
+[Done] exited with code=0 in 0.114 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/objects/object.js"
+/home/sihammohamud/fst/javascript/objects/object.js:13
+    saysalam()
+    ^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1274:20)
+    at Module._compile (node:internal/modules/cjs/loader:1320:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Module._load (node:internal/modules/cjs/loader:1013:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v18.19.1
+
+[Done] exited with code=1 in 0.101 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/objects/object.js"
+/home/sihammohamud/fst/javascript/objects/object.js:13
+    saysalam()
+    ^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1274:20)
+    at Module._compile (node:internal/modules/cjs/loader:1320:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Module._load (node:internal/modules/cjs/loader:1013:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v18.19.1
+
+[Done] exited with code=1 in 0.089 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/objects/object.js"
+asalaamu allaykum
+boy
+
+[Done] exited with code=0 in 0.081 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/objects/tempCodeRunnerFile.js"
+/home/sihammohamud/fst/javascript/objects/tempCodeRunnerFile.js:1
+console.log(people.type);
+            ^
+
+ReferenceError: people is not defined
+    at Object.<anonymous> (/home/sihammohamud/fst/javascript/objects/tempCodeRunnerFile.js:1:13)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Module._load (node:internal/modules/cjs/loader:1013:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v18.19.1
+
+[Done] exited with code=1 in 0.079 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/objects/tempCodeRunnerFile.js"
+
+[Done] exited with code=0 in 0.072 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/objects/object.js"
+asalaamu allaykum
+
+[Done] exited with code=0 in 0.077 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/objects/object.js"
+alsalaamu allaykum
+
+[Done] exited with code=0 in 0.084 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/objects/tempCodeRunnerFile.js"
+/home/sihammohamud/fst/javascript/objects/tempCodeRunnerFile.js:1
+console.log(animal)
+            ^
+
+ReferenceError: animal is not defined
+    at Object.<anonymous> (/home/sihammohamud/fst/javascript/objects/tempCodeRunnerFile.js:1:13)
+    at Module._compile (node:internal/modules/cjs/loader:1356:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Module._load (node:internal/modules/cjs/loader:1013:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v18.19.1
+
+[Done] exited with code=1 in 0.204 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/objects/object.js"
+/home/sihammohamud/fst/javascript/objects/object.js:35
+sayhi: function(){
+     ^
+
+SyntaxError: Unexpected token ':'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1274:20)
+    at Module._compile (node:internal/modules/cjs/loader:1320:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Module._load (node:internal/modules/cjs/loader:1013:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v18.19.1
+
+[Done] exited with code=1 in 0.091 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/objects/object.js"
+/home/sihammohamud/fst/javascript/objects/object.js:35
+sayhi. function(){
+                 ^
+
+SyntaxError: Unexpected token '{'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1274:20)
+    at Module._compile (node:internal/modules/cjs/loader:1320:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Module._load (node:internal/modules/cjs/loader:1013:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v18.19.1
+
+[Done] exited with code=1 in 0.083 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/objects/object.js"
+/home/sihammohamud/fst/javascript/objects/object.js:35
+sayhi. function() {
+                  ^
+
+SyntaxError: Unexpected token '{'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1274:20)
+    at Module._compile (node:internal/modules/cjs/loader:1320:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Module._load (node:internal/modules/cjs/loader:1013:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v18.19.1
+
+[Done] exited with code=1 in 0.088 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/objects/object.js"
+alsalaamu allaykum
+undefined
+{}
+
+[Done] exited with code=0 in 0.083 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/objects/tempCodeRunnerFile.js"
+
+[Done] exited with code=0 in 0.066 seconds
+
+[Running] node "/home/sihammohamud/fst/javascript/objects/object.js"
+alsalaamu allaykum
+undefined
+
+[Done] exited with code=0 in 0.081 seconds
+
